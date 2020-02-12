@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/mehmethelveci/rnSimpleEcommerceApp.git
 
-cd rnSimpleEcommerceApp```
+cd rnSimpleEcommerceApp
 
 npm install
 
